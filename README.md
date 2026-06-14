@@ -88,7 +88,7 @@ quiz.py
 Run the file:
 
 ```bash
-python quiz.py
+python main.py
 ```
 
 ---
