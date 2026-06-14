@@ -29,7 +29,7 @@ A simple Quiz Application developed in Python that asks multiple-choice question
 ```text
 Quiz-Application/
 │
-├── quiz.py
+├── main.py
 └── README.md
 ```
 
